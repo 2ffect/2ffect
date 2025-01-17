@@ -22,7 +22,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=2ffect&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=2ffect&abbreviated=true&style=for-the-badge" align="center" />
 </div>  
   
 

@@ -21,7 +21,7 @@
 </a>  
 
 <a href="https://blog.naver.com/dx_jh" target="_blank">
-<img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=Naver&logoColor=white style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/NaverBlog-03C75A?&style=for-the-badge&logo=naver&logoColor=white alt=naver style="margin-bottom: 5px;" />
 </a>  
 
 

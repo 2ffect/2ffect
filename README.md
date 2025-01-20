@@ -7,7 +7,7 @@
 
 
 <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=2ffect&theme=github-dark&bg_color=&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=2ffect&theme=github-dark&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
 </a>
 
 ## Connect with me  

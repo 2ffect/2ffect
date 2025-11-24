@@ -6,10 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ffect&langs_count=10&layout=compact&theme=transparent)
 
 
-<a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=2ffect&theme=github-dark&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
-</a>
-
 ## Connect with me  
 <div align="center">
 <a href="https://2ffect.github.io" target="_blank">
